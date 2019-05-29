@@ -1,7 +1,7 @@
 var operandoa;
 var operandob;
 var operacion;
-
+//esta funcion inicializa el acceso a los botones de la calculadora
 function init() {
     var resultado = document.getElementById('resultado');
     var reset = document.getElementById('reset');
